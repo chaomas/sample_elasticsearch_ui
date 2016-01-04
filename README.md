@@ -1,11 +1,6 @@
-# react_base
-React Project Template
+# sample_elasticsearch_ui
+Sample: ElasticSearch UI
 
-### componenst
+### To Do
 
-- SASS
-  - Bootstrap
-  - font-awesome (TODO)
-- React
-  - React-Router (TODO)
-  - Redux (TODO)
+- Admin LTE
