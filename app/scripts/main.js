@@ -3,7 +3,8 @@ import { render } from 'react-dom';
 import { Router, Route, Link, IndexRoute } from 'react-router'
 import createBrowserHistory from 'history/lib/createBrowserHistory'
 
-window.$ = require('jquery');
+window.$ = window.jQuery = require('jquery');
+require('./utils/admin_lte/app');
 
 import App from './containers/App'
 
