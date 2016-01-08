@@ -9,7 +9,7 @@ class MainHeader extends React.Component {
       <header className="main-header">
 
         <Link to="/" className="logo">
-          <span className="logo-mini"><b>ES-UI</b></span>
+          <span className="logo-mini"><b>E</b> UI</span>
           <span className="logo-lg"><b>Elasticserach</b> UI</span>
         </Link>
 
