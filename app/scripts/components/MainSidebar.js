@@ -7,19 +7,6 @@ class MainSidebar extends React.Component {
     return (
       <aside className="main-sidebar">
         <section className="sidebar">
-          <div className="user-panel">
-            <div className="pull-left image">
-              <img src="dist/img/user2-160x160.jpg" className="img-circle" alt="User Image"/>
-            </div>
-            <div className="pull-left info">
-              <p>Alexander Pierce</p>
-              <a href="#">
-                <i className="fa fa-circle text-success"></i>
-                Online
-              </a>
-            </div>
-          </div>
-
           <form action="#" method="get" className="sidebar-form">
             <div className="input-group">
               <input type="text" name="q" className="form-control" placeholder="Search..."/>
