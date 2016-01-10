@@ -9,12 +9,12 @@ class ControlSidebar extends React.Component {
         <ul className="nav nav-tabs nav-justified control-sidebar-tabs">
           <li className="active">
             <a href="#control-sidebar-home-tab" data-toggle="tab">
-              <i className="fa fa-home"></i>
+              <i className="fa fa-home"/>
             </a>
           </li>
           <li>
             <a href="#control-sidebar-settings-tab" data-toggle="tab">
-              <i className="fa fa-gears"></i>
+              <i className="fa fa-gears"/>
             </a>
           </li>
         </ul>
@@ -24,12 +24,14 @@ class ControlSidebar extends React.Component {
             <ul className="control-sidebar-menu">
               <li>
                 <a href="javascript::;">
-                  <i className="menu-icon fa fa-birthday-cake bg-red"></i>
+                  <i className="menu-icon fa fa-birthday-cake bg-red"/>
 
                   <div className="menu-info">
-                    <h4 className="control-sidebar-subheading">Langdon's Birthday</h4>
+                    <h4 className="control-sidebar-subheading">
+                      Langdon's Birthday
+                    </h4>
 
-                      <p>Will be 23 on April 24th</p>
+                    <p>Will be 23 on April 24th</p>
                   </div>
                 </a>
               </li>
